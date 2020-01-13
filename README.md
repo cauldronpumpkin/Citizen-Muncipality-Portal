@@ -1,4 +1,4 @@
-# Citizen-Muncipality-Portal
+# Citizen-Muncipality-Portal-Django
 
 #Technologies Used:
 1) Django
