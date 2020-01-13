@@ -1,4 +1,11 @@
-# front
+# Citizen-Muncipality-Portal-VueJS-Firebase
+
+# Technologies used:
+1) VueJS
+2) Vuex
+3) Firestore
+3) Firebase Auth
+5) Google Charts 
 
 ## Project setup
 ```
