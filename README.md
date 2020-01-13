@@ -2,5 +2,5 @@
 
 # Switch to dev branch for Code (VueJS and Firebase)
 
-# Switch to dev branch for Code (Django)
+# Switch to django branch for Code (Django)
 .
