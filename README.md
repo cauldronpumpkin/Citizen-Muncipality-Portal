@@ -1,3 +1,6 @@
 # Citizen-Muncipality-Portal
 
-# Switch to dev branch for Code and details on installation.
+# Switch to dev branch for Code (VueJS and Firebase)
+
+# Switch to dev branch for Code (Django)
+.
