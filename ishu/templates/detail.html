@@ -1,0 +1,21 @@
+<center><br><br><br><br><br><br>
+<style>
+    form {
+        font-size: 25px;
+        font-family: monospace;
+    }
+    .c1 {
+        width: 100px;
+        height: 35px;  
+    }
+    h1 {
+        font-family: monospace;
+        margin-top: -20px;
+    }
+</style> 
+<h1><a href="/">HOME</a></h1><br><br><br><br><br>   
+<form method="POST"> {% csrf_token %}
+    {{ form.as_p }}
+    <input class="c1" type="submit" value="SAVE">
+</form>
+</center>
